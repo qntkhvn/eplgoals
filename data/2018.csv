@@ -1,0 +1,381 @@
+Div,HomeTeam,AwayTeam,FTHG,FTAG
+E0,Man United,Leicester,2,1
+E0,Bournemouth,Cardiff,2,0
+E0,Fulham,Crystal Palace,0,2
+E0,Huddersfield,Chelsea,0,3
+E0,Newcastle,Tottenham,1,2
+E0,Watford,Brighton,2,0
+E0,Wolves,Everton,2,2
+E0,Arsenal,Man City,0,2
+E0,Liverpool,West Ham,4,0
+E0,Southampton,Burnley,0,0
+E0,Cardiff,Newcastle,0,0
+E0,Chelsea,Arsenal,3,2
+E0,Everton,Southampton,2,1
+E0,Leicester,Wolves,2,0
+E0,Tottenham,Fulham,3,1
+E0,West Ham,Bournemouth,1,2
+E0,Brighton,Man United,3,2
+E0,Burnley,Watford,1,3
+E0,Man City,Huddersfield,6,1
+E0,Crystal Palace,Liverpool,0,2
+E0,Arsenal,West Ham,3,1
+E0,Bournemouth,Everton,2,2
+E0,Huddersfield,Cardiff,0,0
+E0,Liverpool,Brighton,1,0
+E0,Southampton,Leicester,1,2
+E0,Wolves,Man City,1,1
+E0,Fulham,Burnley,4,2
+E0,Newcastle,Chelsea,1,2
+E0,Watford,Crystal Palace,2,1
+E0,Man United,Tottenham,0,3
+E0,Brighton,Fulham,2,2
+E0,Chelsea,Bournemouth,2,0
+E0,Crystal Palace,Southampton,0,2
+E0,Everton,Huddersfield,1,1
+E0,Leicester,Liverpool,1,2
+E0,Man City,Newcastle,2,1
+E0,West Ham,Wolves,0,1
+E0,Burnley,Man United,0,2
+E0,Cardiff,Arsenal,2,3
+E0,Watford,Tottenham,2,1
+E0,Bournemouth,Leicester,4,2
+E0,Chelsea,Cardiff,4,1
+E0,Huddersfield,Crystal Palace,0,1
+E0,Man City,Fulham,3,0
+E0,Newcastle,Arsenal,1,2
+E0,Tottenham,Liverpool,1,2
+E0,Watford,Man United,1,2
+E0,Everton,West Ham,1,3
+E0,Wolves,Burnley,1,0
+E0,Southampton,Brighton,2,2
+E0,Brighton,Tottenham,1,2
+E0,Burnley,Bournemouth,4,0
+E0,Cardiff,Man City,0,5
+E0,Crystal Palace,Newcastle,0,0
+E0,Fulham,Watford,1,1
+E0,Leicester,Huddersfield,3,1
+E0,Liverpool,Southampton,3,0
+E0,Man United,Wolves,1,1
+E0,Arsenal,Everton,2,0
+E0,West Ham,Chelsea,0,0
+E0,Arsenal,Watford,2,0
+E0,Chelsea,Liverpool,1,1
+E0,Everton,Fulham,3,0
+E0,Huddersfield,Tottenham,0,2
+E0,Man City,Brighton,2,0
+E0,Newcastle,Leicester,0,2
+E0,West Ham,Man United,3,1
+E0,Wolves,Southampton,2,0
+E0,Cardiff,Burnley,1,2
+E0,Bournemouth,Crystal Palace,2,1
+E0,Brighton,West Ham,1,0
+E0,Burnley,Huddersfield,1,1
+E0,Crystal Palace,Wolves,0,1
+E0,Leicester,Everton,1,2
+E0,Man United,Newcastle,3,2
+E0,Tottenham,Cardiff,1,0
+E0,Watford,Bournemouth,0,4
+E0,Fulham,Arsenal,1,5
+E0,Liverpool,Man City,0,0
+E0,Southampton,Chelsea,0,3
+E0,Bournemouth,Southampton,0,0
+E0,Cardiff,Fulham,4,2
+E0,Chelsea,Man United,2,2
+E0,Huddersfield,Liverpool,0,1
+E0,Man City,Burnley,5,0
+E0,Newcastle,Brighton,0,1
+E0,West Ham,Tottenham,0,1
+E0,Wolves,Watford,0,2
+E0,Everton,Crystal Palace,2,0
+E0,Arsenal,Leicester,3,1
+E0,Brighton,Wolves,1,0
+E0,Fulham,Bournemouth,0,3
+E0,Leicester,West Ham,1,1
+E0,Liverpool,Cardiff,4,1
+E0,Southampton,Newcastle,0,0
+E0,Watford,Huddersfield,3,0
+E0,Burnley,Chelsea,0,4
+E0,Crystal Palace,Arsenal,2,2
+E0,Man United,Everton,2,1
+E0,Tottenham,Man City,0,1
+E0,Arsenal,Liverpool,1,1
+E0,Bournemouth,Man United,1,2
+E0,Cardiff,Leicester,0,1
+E0,Everton,Brighton,3,1
+E0,Newcastle,Watford,1,0
+E0,West Ham,Burnley,4,2
+E0,Wolves,Tottenham,2,3
+E0,Chelsea,Crystal Palace,3,1
+E0,Man City,Southampton,6,1
+E0,Huddersfield,Fulham,1,0
+E0,Cardiff,Brighton,2,1
+E0,Crystal Palace,Tottenham,0,1
+E0,Huddersfield,West Ham,1,1
+E0,Leicester,Burnley,0,0
+E0,Newcastle,Bournemouth,2,1
+E0,Southampton,Watford,1,1
+E0,Arsenal,Wolves,1,1
+E0,Chelsea,Everton,0,0
+E0,Liverpool,Fulham,2,0
+E0,Man City,Man United,3,1
+E0,Brighton,Leicester,1,1
+E0,Everton,Cardiff,1,0
+E0,Fulham,Southampton,3,2
+E0,Man United,Crystal Palace,0,0
+E0,Tottenham,Chelsea,3,1
+E0,Watford,Liverpool,0,3
+E0,West Ham,Man City,0,4
+E0,Bournemouth,Arsenal,1,2
+E0,Wolves,Huddersfield,0,2
+E0,Burnley,Newcastle,1,2
+E0,Cardiff,Wolves,2,1
+E0,Crystal Palace,Burnley,2,0
+E0,Huddersfield,Brighton,1,2
+E0,Leicester,Watford,2,0
+E0,Man City,Bournemouth,3,1
+E0,Newcastle,West Ham,0,3
+E0,Southampton,Man United,2,2
+E0,Arsenal,Tottenham,4,2
+E0,Chelsea,Fulham,2,0
+E0,Liverpool,Everton,1,0
+E0,Bournemouth,Huddersfield,2,1
+E0,Brighton,Crystal Palace,3,1
+E0,Watford,Man City,1,2
+E0,West Ham,Cardiff,3,1
+E0,Burnley,Liverpool,1,3
+E0,Everton,Newcastle,1,1
+E0,Fulham,Leicester,1,1
+E0,Man United,Arsenal,2,2
+E0,Tottenham,Southampton,3,1
+E0,Wolves,Chelsea,2,1
+E0,Arsenal,Huddersfield,1,0
+E0,Bournemouth,Liverpool,0,4
+E0,Burnley,Brighton,1,0
+E0,Cardiff,Southampton,1,0
+E0,Chelsea,Man City,2,0
+E0,Leicester,Tottenham,0,2
+E0,Man United,Fulham,4,1
+E0,West Ham,Crystal Palace,3,2
+E0,Newcastle,Wolves,1,2
+E0,Everton,Watford,2,2
+E0,Crystal Palace,Leicester,1,0
+E0,Fulham,West Ham,0,2
+E0,Huddersfield,Newcastle,0,1
+E0,Man City,Everton,3,1
+E0,Tottenham,Burnley,1,0
+E0,Watford,Cardiff,3,2
+E0,Wolves,Bournemouth,2,0
+E0,Brighton,Chelsea,1,2
+E0,Liverpool,Man United,3,1
+E0,Southampton,Arsenal,3,2
+E0,Wolves,Liverpool,0,2
+E0,Arsenal,Burnley,3,1
+E0,Bournemouth,Brighton,2,0
+E0,Cardiff,Man United,1,5
+E0,Chelsea,Leicester,0,1
+E0,Huddersfield,Southampton,1,3
+E0,Man City,Crystal Palace,2,3
+E0,Newcastle,Fulham,0,0
+E0,West Ham,Watford,0,2
+E0,Everton,Tottenham,2,6
+E0,Brighton,Arsenal,1,1
+E0,Burnley,Everton,1,5
+E0,Crystal Palace,Cardiff,0,0
+E0,Fulham,Wolves,1,1
+E0,Leicester,Man City,2,1
+E0,Liverpool,Newcastle,4,0
+E0,Man United,Huddersfield,3,1
+E0,Tottenham,Bournemouth,5,0
+E0,Watford,Chelsea,1,2
+E0,Southampton,West Ham,1,2
+E0,Brighton,Everton,1,0
+E0,Fulham,Huddersfield,1,0
+E0,Leicester,Cardiff,0,1
+E0,Liverpool,Arsenal,5,1
+E0,Tottenham,Wolves,1,3
+E0,Watford,Newcastle,1,1
+E0,Burnley,West Ham,2,0
+E0,Crystal Palace,Chelsea,0,1
+E0,Man United,Bournemouth,4,1
+E0,Southampton,Man City,1,3
+E0,Arsenal,Fulham,4,1
+E0,Cardiff,Tottenham,0,3
+E0,Everton,Leicester,0,1
+E0,Bournemouth,Watford,3,3
+E0,Chelsea,Southampton,0,0
+E0,Huddersfield,Burnley,1,2
+E0,Newcastle,Man United,0,2
+E0,West Ham,Brighton,2,2
+E0,Wolves,Crystal Palace,0,2
+E0,Man City,Liverpool,2,1
+E0,Brighton,Liverpool,0,1
+E0,Burnley,Fulham,2,1
+E0,Cardiff,Huddersfield,0,0
+E0,Chelsea,Newcastle,2,1
+E0,Crystal Palace,Watford,1,2
+E0,Leicester,Southampton,1,2
+E0,West Ham,Arsenal,1,0
+E0,Everton,Bournemouth,2,0
+E0,Tottenham,Man United,0,1
+E0,Man City,Wolves,3,0
+E0,Arsenal,Chelsea,2,0
+E0,Bournemouth,West Ham,2,0
+E0,Liverpool,Crystal Palace,4,3
+E0,Man United,Brighton,2,1
+E0,Newcastle,Cardiff,3,0
+E0,Southampton,Everton,2,1
+E0,Watford,Burnley,0,0
+E0,Wolves,Leicester,4,3
+E0,Fulham,Tottenham,1,2
+E0,Huddersfield,Man City,0,3
+E0,Arsenal,Cardiff,2,1
+E0,Fulham,Brighton,4,2
+E0,Huddersfield,Everton,0,1
+E0,Man United,Burnley,2,2
+E0,Newcastle,Man City,2,1
+E0,Wolves,West Ham,3,0
+E0,Bournemouth,Chelsea,4,0
+E0,Liverpool,Leicester,1,1
+E0,Southampton,Crystal Palace,1,1
+E0,Tottenham,Watford,2,1
+E0,Brighton,Watford,0,0
+E0,Burnley,Southampton,1,1
+E0,Cardiff,Bournemouth,2,0
+E0,Chelsea,Huddersfield,5,0
+E0,Crystal Palace,Fulham,2,0
+E0,Everton,Wolves,1,3
+E0,Tottenham,Newcastle,1,0
+E0,Leicester,Man United,0,1
+E0,Man City,Arsenal,3,1
+E0,West Ham,Liverpool,1,1
+E0,Everton,Man City,0,2
+E0,Brighton,Burnley,1,3
+E0,Crystal Palace,West Ham,1,1
+E0,Fulham,Man United,0,3
+E0,Huddersfield,Arsenal,1,2
+E0,Liverpool,Bournemouth,3,0
+E0,Southampton,Cardiff,1,2
+E0,Watford,Everton,1,0
+E0,Man City,Chelsea,6,0
+E0,Tottenham,Leicester,3,1
+E0,Wolves,Newcastle,1,1
+E0,Cardiff,Watford,1,5
+E0,West Ham,Fulham,3,1
+E0,Bournemouth,Wolves,1,1
+E0,Burnley,Tottenham,2,1
+E0,Leicester,Crystal Palace,1,4
+E0,Newcastle,Huddersfield,2,0
+E0,Arsenal,Southampton,2,0
+E0,Man United,Liverpool,0,0
+E0,Cardiff,Everton,0,3
+E0,Huddersfield,Wolves,1,0
+E0,Leicester,Brighton,2,1
+E0,Newcastle,Burnley,2,0
+E0,Arsenal,Bournemouth,5,1
+E0,Chelsea,Tottenham,2,0
+E0,Crystal Palace,Man United,1,3
+E0,Liverpool,Watford,5,0
+E0,Man City,West Ham,1,0
+E0,Southampton,Fulham,2,0
+E0,Bournemouth,Man City,0,1
+E0,Brighton,Huddersfield,1,0
+E0,Burnley,Crystal Palace,1,3
+E0,Man United,Southampton,3,2
+E0,Tottenham,Arsenal,1,1
+E0,West Ham,Newcastle,2,0
+E0,Wolves,Cardiff,2,0
+E0,Everton,Liverpool,0,0
+E0,Fulham,Chelsea,1,2
+E0,Watford,Leicester,2,1
+E0,Cardiff,West Ham,2,0
+E0,Crystal Palace,Brighton,1,2
+E0,Huddersfield,Bournemouth,0,2
+E0,Leicester,Fulham,3,1
+E0,Man City,Watford,3,1
+E0,Newcastle,Everton,3,2
+E0,Southampton,Tottenham,2,1
+E0,Arsenal,Man United,2,0
+E0,Chelsea,Wolves,1,1
+E0,Liverpool,Burnley,4,2
+E0,Bournemouth,Newcastle,2,2
+E0,Burnley,Leicester,1,2
+E0,West Ham,Huddersfield,4,3
+E0,Everton,Chelsea,2,0
+E0,Fulham,Liverpool,1,2
+E0,Brighton,Southampton,0,1
+E0,Burnley,Wolves,2,0
+E0,Crystal Palace,Huddersfield,2,0
+E0,Fulham,Man City,0,2
+E0,Leicester,Bournemouth,2,0
+E0,Man United,Watford,2,1
+E0,West Ham,Everton,0,2
+E0,Cardiff,Chelsea,1,2
+E0,Liverpool,Tottenham,2,1
+E0,Arsenal,Newcastle,2,0
+E0,Watford,Fulham,4,1
+E0,Wolves,Man United,2,1
+E0,Chelsea,Brighton,3,0
+E0,Man City,Cardiff,2,0
+E0,Tottenham,Crystal Palace,2,0
+E0,Southampton,Liverpool,1,3
+E0,Bournemouth,Burnley,1,3
+E0,Huddersfield,Leicester,1,4
+E0,Newcastle,Crystal Palace,0,1
+E0,Everton,Arsenal,1,0
+E0,Chelsea,West Ham,2,0
+E0,Leicester,Newcastle,0,1
+E0,Brighton,Bournemouth,0,5
+E0,Burnley,Cardiff,2,0
+E0,Fulham,Everton,2,0
+E0,Man United,West Ham,2,1
+E0,Southampton,Wolves,3,1
+E0,Tottenham,Huddersfield,4,0
+E0,Crystal Palace,Man City,1,3
+E0,Liverpool,Chelsea,2,0
+E0,Watford,Arsenal,0,1
+E0,Brighton,Cardiff,0,2
+E0,Bournemouth,Fulham,0,1
+E0,Huddersfield,Watford,1,2
+E0,Man City,Tottenham,1,0
+E0,Newcastle,Southampton,3,1
+E0,West Ham,Leicester,2,2
+E0,Wolves,Brighton,0,0
+E0,Arsenal,Crystal Palace,2,3
+E0,Cardiff,Liverpool,0,2
+E0,Everton,Man United,4,0
+E0,Chelsea,Burnley,2,2
+E0,Tottenham,Brighton,1,0
+E0,Watford,Southampton,1,1
+E0,Man United,Man City,0,2
+E0,Wolves,Arsenal,3,1
+E0,Liverpool,Huddersfield,5,0
+E0,Brighton,Newcastle,1,1
+E0,Crystal Palace,Everton,0,0
+E0,Fulham,Cardiff,1,0
+E0,Southampton,Bournemouth,3,3
+E0,Tottenham,West Ham,0,1
+E0,Watford,Wolves,1,2
+E0,Burnley,Man City,0,1
+E0,Leicester,Arsenal,3,0
+E0,Man United,Chelsea,1,1
+E0,Everton,Burnley,2,0
+E0,Bournemouth,Tottenham,1,0
+E0,Cardiff,Crystal Palace,2,3
+E0,Newcastle,Liverpool,2,3
+E0,West Ham,Southampton,3,0
+E0,Wolves,Fulham,1,0
+E0,Arsenal,Brighton,1,1
+E0,Chelsea,Watford,3,0
+E0,Huddersfield,Man United,1,1
+E0,Man City,Leicester,1,0
+E0,Brighton,Man City,1,4
+E0,Burnley,Arsenal,1,3
+E0,Crystal Palace,Bournemouth,5,3
+E0,Fulham,Newcastle,0,4
+E0,Leicester,Chelsea,0,0
+E0,Liverpool,Wolves,2,0
+E0,Man United,Cardiff,0,2
+E0,Southampton,Huddersfield,1,1
+E0,Tottenham,Everton,2,2
+E0,Watford,West Ham,1,4

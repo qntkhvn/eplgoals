@@ -1,0 +1,381 @@
+Div,HomeTeam,AwayTeam,FTHG,FTAG
+E0,Aston Villa,Man United,3,1
+E0,Blackburn,QPR,1,0
+E0,Chelsea,Everton,0,0
+E0,Liverpool,Sheffield Wednesday,1,0
+E0,Man City,Tottenham,1,1
+E0,Newcastle,Coventry,3,0
+E0,Southampton,Nottingham Forest,3,4
+E0,West Ham,Leeds,1,2
+E0,Wimbledon,Bolton,3,2
+E0,Arsenal,Middlesbrough,1,1
+E0,Leeds,Liverpool,1,0
+E0,Bolton,Newcastle,1,3
+E0,Coventry,Man City,2,1
+E0,Everton,Arsenal,0,2
+E0,Man United,West Ham,2,1
+E0,Nottingham Forest,Chelsea,0,0
+E0,QPR,Wimbledon,0,3
+E0,Sheffield Wednesday,Blackburn,2,1
+E0,Tottenham,Aston Villa,0,1
+E0,Bolton,Blackburn,2,1
+E0,Coventry,Arsenal,0,0
+E0,Everton,Southampton,2,0
+E0,Leeds,Aston Villa,2,0
+E0,Man United,Wimbledon,3,1
+E0,Middlesbrough,Chelsea,2,0
+E0,Nottingham Forest,West Ham,1,1
+E0,QPR,Man City,1,0
+E0,Tottenham,Liverpool,1,3
+E0,Sheffield Wednesday,Newcastle,0,2
+E0,Blackburn,Man United,1,2
+E0,Arsenal,Nottingham Forest,1,1
+E0,Aston Villa,Bolton,1,0
+E0,Chelsea,Coventry,2,2
+E0,Liverpool,QPR,1,0
+E0,Man City,Everton,0,2
+E0,Newcastle,Middlesbrough,1,0
+E0,Southampton,Leeds,1,1
+E0,West Ham,Tottenham,1,1
+E0,Wimbledon,Sheffield Wednesday,2,2
+E0,Blackburn,Aston Villa,1,1
+E0,Bolton,Middlesbrough,1,1
+E0,Coventry,Nottingham Forest,1,1
+E0,Everton,Man United,2,3
+E0,QPR,Sheffield Wednesday,0,3
+E0,Southampton,Newcastle,1,0
+E0,Tottenham,Leeds,2,1
+E0,Wimbledon,Liverpool,1,0
+E0,Man City,Arsenal,0,1
+E0,West Ham,Chelsea,1,3
+E0,Middlesbrough,Southampton,0,0
+E0,Arsenal,West Ham,1,0
+E0,Aston Villa,Wimbledon,2,0
+E0,Chelsea,Southampton,3,0
+E0,Leeds,QPR,1,3
+E0,Liverpool,Blackburn,3,0
+E0,Man United,Bolton,3,0
+E0,Middlesbrough,Coventry,2,1
+E0,Newcastle,Man City,3,1
+E0,Sheffield Wednesday,Tottenham,1,3
+E0,Nottingham Forest,Everton,3,2
+E0,Arsenal,Southampton,4,2
+E0,Aston Villa,Nottingham Forest,1,1
+E0,Blackburn,Coventry,5,1
+E0,Liverpool,Bolton,5,2
+E0,Man City,Middlesbrough,0,1
+E0,Sheffield Wednesday,Man United,0,0
+E0,West Ham,Everton,2,1
+E0,Wimbledon,Leeds,2,4
+E0,Newcastle,Chelsea,2,0
+E0,QPR,Tottenham,2,3
+E0,Bolton,QPR,0,1
+E0,Chelsea,Arsenal,1,0
+E0,Coventry,Aston Villa,0,3
+E0,Leeds,Sheffield Wednesday,2,0
+E0,Middlesbrough,Blackburn,2,0
+E0,Nottingham Forest,Man City,3,0
+E0,Tottenham,Wimbledon,3,1
+E0,Everton,Newcastle,1,3
+E0,Man United,Liverpool,2,2
+E0,Southampton,West Ham,0,0
+E0,Aston Villa,Chelsea,0,1
+E0,Blackburn,Southampton,2,1
+E0,Bolton,Everton,1,1
+E0,Leeds,Arsenal,0,3
+E0,Liverpool,Coventry,0,0
+E0,Man United,Man City,1,0
+E0,QPR,Newcastle,2,3
+E0,Tottenham,Nottingham Forest,0,1
+E0,Sheffield Wednesday,Middlesbrough,0,1
+E0,Wimbledon,West Ham,0,1
+E0,Arsenal,Aston Villa,2,0
+E0,Chelsea,Man United,1,4
+E0,Coventry,Sheffield Wednesday,0,1
+E0,Man City,Leeds,0,0
+E0,Middlesbrough,QPR,1,0
+E0,Newcastle,Wimbledon,6,1
+E0,Nottingham Forest,Bolton,3,2
+E0,West Ham,Blackburn,1,1
+E0,Everton,Tottenham,1,1
+E0,Southampton,Liverpool,1,3
+E0,Aston Villa,Everton,1,0
+E0,Blackburn,Chelsea,3,0
+E0,Leeds,Coventry,3,1
+E0,Liverpool,Man City,6,0
+E0,Man United,Middlesbrough,2,0
+E0,QPR,Nottingham Forest,1,1
+E0,Sheffield Wednesday,West Ham,0,1
+E0,Wimbledon,Southampton,1,2
+E0,Tottenham,Newcastle,1,1
+E0,Bolton,Arsenal,1,0
+E0,Arsenal,Man United,1,0
+E0,Chelsea,Sheffield Wednesday,0,0
+E0,Coventry,Tottenham,2,3
+E0,Man City,Bolton,1,0
+E0,Middlesbrough,Leeds,1,1
+E0,Newcastle,Liverpool,2,1
+E0,Southampton,QPR,2,0
+E0,West Ham,Aston Villa,1,4
+E0,Everton,Blackburn,1,0
+E0,Nottingham Forest,Wimbledon,4,1
+E0,Newcastle,Blackburn,1,0
+E0,Aston Villa,Newcastle,1,1
+E0,Blackburn,Nottingham Forest,7,0
+E0,Bolton,West Ham,0,3
+E0,Leeds,Chelsea,1,0
+E0,Liverpool,Everton,1,2
+E0,Man United,Southampton,4,1
+E0,Sheffield Wednesday,Man City,1,1
+E0,Tottenham,Arsenal,2,1
+E0,Wimbledon,Middlesbrough,0,0
+E0,QPR,Coventry,1,1
+E0,Southampton,Aston Villa,0,1
+E0,Arsenal,Sheffield Wednesday,4,2
+E0,Middlesbrough,Tottenham,0,1
+E0,Chelsea,Bolton,3,2
+E0,Coventry,Man United,0,4
+E0,Everton,QPR,2,0
+E0,Man City,Wimbledon,1,0
+E0,West Ham,Liverpool,0,0
+E0,Chelsea,Tottenham,0,0
+E0,Coventry,Wimbledon,3,3
+E0,Everton,Sheffield Wednesday,2,2
+E0,Man City,Aston Villa,1,0
+E0,Middlesbrough,Liverpool,2,1
+E0,Newcastle,Leeds,2,1
+E0,Southampton,Bolton,1,0
+E0,West Ham,QPR,1,0
+E0,Arsenal,Blackburn,0,0
+E0,Nottingham Forest,Man United,1,1
+E0,Aston Villa,Arsenal,1,1
+E0,Blackburn,West Ham,4,2
+E0,Bolton,Nottingham Forest,1,1
+E0,Leeds,Man City,0,1
+E0,Liverpool,Southampton,1,1
+E0,Man United,Chelsea,1,1
+E0,QPR,Middlesbrough,1,1
+E0,Tottenham,Everton,0,0
+E0,Wimbledon,Newcastle,3,3
+E0,Sheffield Wednesday,Coventry,4,3
+E0,Bolton,Liverpool,0,1
+E0,Chelsea,Newcastle,1,0
+E0,Coventry,Blackburn,5,0
+E0,Leeds,Wimbledon,1,1
+E0,Man United,Sheffield Wednesday,2,2
+E0,Middlesbrough,Man City,4,1
+E0,Southampton,Arsenal,0,0
+E0,Tottenham,QPR,1,0
+E0,Nottingham Forest,Aston Villa,1,1
+E0,Everton,West Ham,3,0
+E0,Arsenal,Chelsea,1,1
+E0,Aston Villa,Coventry,4,1
+E0,Blackburn,Middlesbrough,1,0
+E0,Newcastle,Everton,1,0
+E0,QPR,Bolton,2,1
+E0,Sheffield Wednesday,Leeds,6,2
+E0,West Ham,Southampton,2,1
+E0,Wimbledon,Tottenham,0,1
+E0,Liverpool,Man United,2,0
+E0,Man City,Nottingham Forest,1,1
+E0,Coventry,Everton,2,1
+E0,Liverpool,Arsenal,3,1
+E0,Man City,Chelsea,0,1
+E0,Middlesbrough,West Ham,4,2
+E0,Newcastle,Nottingham Forest,3,1
+E0,QPR,Aston Villa,1,0
+E0,Sheffield Wednesday,Southampton,2,2
+E0,Tottenham,Bolton,2,2
+E0,Wimbledon,Blackburn,1,1
+E0,Leeds,Man United,3,1
+E0,Arsenal,QPR,3,0
+E0,Blackburn,Man City,2,0
+E0,Chelsea,Wimbledon,1,2
+E0,Everton,Middlesbrough,4,0
+E0,Nottingham Forest,Sheffield Wednesday,1,0
+E0,Southampton,Tottenham,0,0
+E0,Bolton,Leeds,0,2
+E0,Man United,Newcastle,2,0
+E0,Arsenal,Wimbledon,1,3
+E0,Blackburn,Tottenham,2,1
+E0,Bolton,Coventry,1,2
+E0,Chelsea,Liverpool,2,2
+E0,Everton,Leeds,2,0
+E0,Man United,QPR,2,1
+E0,Nottingham Forest,Middlesbrough,1,0
+E0,Coventry,Southampton,1,1
+E0,Leeds,Blackburn,0,0
+E0,Liverpool,Nottingham Forest,4,2
+E0,Man City,West Ham,2,1
+E0,Middlesbrough,Aston Villa,0,2
+E0,Sheffield Wednesday,Bolton,4,2
+E0,Tottenham,Man United,4,1
+E0,Wimbledon,Everton,2,3
+E0,Newcastle,Arsenal,2,0
+E0,QPR,Chelsea,1,2
+E0,Bolton,Wimbledon,1,0
+E0,Everton,Chelsea,1,1
+E0,Leeds,West Ham,2,0
+E0,Man United,Aston Villa,0,0
+E0,Middlesbrough,Arsenal,2,3
+E0,Nottingham Forest,Southampton,1,0
+E0,QPR,Blackburn,0,1
+E0,Sheffield Wednesday,Liverpool,1,1
+E0,Tottenham,Man City,1,0
+E0,Coventry,Newcastle,0,1
+E0,Arsenal,Everton,1,2
+E0,Blackburn,Sheffield Wednesday,3,0
+E0,Chelsea,Nottingham Forest,1,0
+E0,Liverpool,Leeds,5,0
+E0,Man City,Coventry,1,1
+E0,Newcastle,Bolton,2,1
+E0,Southampton,Middlesbrough,2,1
+E0,Wimbledon,QPR,2,1
+E0,Aston Villa,Tottenham,2,1
+E0,West Ham,Man United,0,1
+E0,Aston Villa,Liverpool,0,2
+E0,Nottingham Forest,Leeds,2,1
+E0,Southampton,Man City,1,1
+E0,West Ham,Coventry,3,2
+E0,Arsenal,Coventry,1,1
+E0,Aston Villa,Leeds,3,0
+E0,Blackburn,Bolton,3,1
+E0,Liverpool,Tottenham,0,0
+E0,Man City,QPR,2,0
+E0,Newcastle,Sheffield Wednesday,2,0
+E0,Southampton,Everton,2,2
+E0,West Ham,Nottingham Forest,1,0
+E0,Wimbledon,Man United,2,4
+E0,Chelsea,Middlesbrough,5,0
+E0,Bolton,Aston Villa,0,2
+E0,Coventry,Chelsea,1,0
+E0,Everton,Man City,2,0
+E0,Man United,Blackburn,1,0
+E0,Middlesbrough,Newcastle,1,2
+E0,Nottingham Forest,Arsenal,0,1
+E0,Sheffield Wednesday,Wimbledon,2,1
+E0,QPR,Liverpool,1,2
+E0,Tottenham,West Ham,0,1
+E0,Chelsea,West Ham,1,2
+E0,Middlesbrough,Bolton,1,4
+E0,Sheffield Wednesday,QPR,1,3
+E0,Man United,Everton,2,0
+E0,West Ham,Newcastle,2,0
+E0,Blackburn,Liverpool,2,3
+E0,Coventry,Middlesbrough,0,0
+E0,Everton,Nottingham Forest,3,0
+E0,Man City,Newcastle,3,3
+E0,Southampton,Chelsea,2,3
+E0,Tottenham,Sheffield Wednesday,1,0
+E0,West Ham,Arsenal,0,1
+E0,Wimbledon,Aston Villa,3,3
+E0,Bolton,Man United,0,6
+E0,Aston Villa,Blackburn,2,0
+E0,Coventry,West Ham,2,2
+E0,Leeds,Bolton,0,1
+E0,Man City,Blackburn,1,1
+E0,Middlesbrough,Everton,0,2
+E0,QPR,Arsenal,1,1
+E0,Sheffield Wednesday,Nottingham Forest,1,3
+E0,Tottenham,Southampton,1,0
+E0,Wimbledon,Chelsea,1,1
+E0,Liverpool,Aston Villa,3,0
+E0,Newcastle,Man United,0,1
+E0,Arsenal,Man City,3,1
+E0,Aston Villa,Sheffield Wednesday,3,2
+E0,QPR,Leeds,1,2
+E0,Aston Villa,QPR,4,2
+E0,Everton,Coventry,2,2
+E0,West Ham,Middlesbrough,2,0
+E0,Chelsea,Man City,1,1
+E0,Blackburn,Leeds,1,0
+E0,Liverpool,Wimbledon,2,2
+E0,Coventry,Bolton,0,2
+E0,Liverpool,Chelsea,2,0
+E0,Man City,Southampton,2,1
+E0,Middlesbrough,Nottingham Forest,1,1
+E0,QPR,Man United,1,1
+E0,Sheffield Wednesday,Aston Villa,2,0
+E0,Tottenham,Blackburn,2,3
+E0,Wimbledon,Arsenal,0,3
+E0,Leeds,Everton,2,2
+E0,Newcastle,West Ham,3,0
+E0,Aston Villa,Middlesbrough,0,0
+E0,Bolton,Tottenham,2,3
+E0,Man United,Arsenal,1,0
+E0,Southampton,Sheffield Wednesday,0,1
+E0,Arsenal,Newcastle,2,0
+E0,Bolton,Sheffield Wednesday,2,1
+E0,Chelsea,QPR,1,1
+E0,Everton,Wimbledon,2,4
+E0,Nottingham Forest,Liverpool,1,0
+E0,West Ham,Man City,4,2
+E0,Man United,Tottenham,1,0
+E0,Southampton,Coventry,1,0
+E0,Blackburn,Everton,0,3
+E0,Bolton,Man City,1,1
+E0,Leeds,Middlesbrough,0,1
+E0,QPR,Southampton,3,0
+E0,Tottenham,Coventry,3,1
+E0,Wimbledon,Nottingham Forest,1,0
+E0,Leeds,Southampton,1,0
+E0,Liverpool,Newcastle,4,3
+E0,Middlesbrough,Sheffield Wednesday,3,1
+E0,Arsenal,Leeds,2,1
+E0,Chelsea,Aston Villa,1,2
+E0,Coventry,Liverpool,1,0
+E0,Everton,Bolton,3,0
+E0,Man City,Man United,2,3
+E0,Newcastle,QPR,2,1
+E0,Nottingham Forest,Tottenham,2,1
+E0,Southampton,Blackburn,1,0
+E0,West Ham,Wimbledon,1,1
+E0,Aston Villa,Southampton,3,0
+E0,Blackburn,Newcastle,2,1
+E0,Bolton,Chelsea,2,1
+E0,Leeds,Nottingham Forest,1,3
+E0,Liverpool,West Ham,2,0
+E0,Man United,Coventry,1,0
+E0,QPR,Everton,3,1
+E0,Sheffield Wednesday,Arsenal,1,0
+E0,Tottenham,Middlesbrough,1,1
+E0,Wimbledon,Man City,3,0
+E0,Chelsea,Leeds,4,1
+E0,Coventry,QPR,1,0
+E0,Man City,Sheffield Wednesday,1,0
+E0,Middlesbrough,Wimbledon,1,2
+E0,Nottingham Forest,Blackburn,1,5
+E0,Southampton,Man United,3,1
+E0,West Ham,Bolton,1,0
+E0,Newcastle,Aston Villa,1,0
+E0,Arsenal,Tottenham,0,0
+E0,Everton,Liverpool,1,1
+E0,Aston Villa,West Ham,1,1
+E0,Blackburn,Wimbledon,3,2
+E0,Man United,Leeds,1,0
+E0,Newcastle,Southampton,1,0
+E0,Nottingham Forest,Coventry,0,0
+E0,Sheffield Wednesday,Chelsea,0,0
+E0,Aston Villa,Man City,0,1
+E0,Blackburn,Arsenal,1,1
+E0,Bolton,Southampton,0,1
+E0,Liverpool,Middlesbrough,1,0
+E0,QPR,West Ham,3,0
+E0,Sheffield Wednesday,Everton,2,5
+E0,Tottenham,Chelsea,1,1
+E0,Wimbledon,Coventry,0,2
+E0,Man United,Nottingham Forest,5,0
+E0,Leeds,Newcastle,0,1
+E0,Arsenal,Liverpool,0,0
+E0,Leeds,Tottenham,1,3
+E0,Nottingham Forest,Newcastle,1,1
+E0,Arsenal,Bolton,2,1
+E0,Chelsea,Blackburn,2,3
+E0,Coventry,Leeds,0,0
+E0,Everton,Aston Villa,1,0
+E0,Man City,Liverpool,2,2
+E0,Middlesbrough,Man United,0,3
+E0,Newcastle,Tottenham,1,1
+E0,Nottingham Forest,QPR,3,0
+E0,Southampton,Wimbledon,0,0
+E0,West Ham,Sheffield Wednesday,1,1
