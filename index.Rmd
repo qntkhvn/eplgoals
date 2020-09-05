@@ -108,7 +108,7 @@ We suspect that goal scoring in soccer can be modeled by a Poisson process. Acco
 
 ### The Poisson Distribution
 
-The Poisson distribution, named for French mathematician Simeon Denise Poisson, is a discrete probability distribution that expresses the number of occurrences of an event over a given period of time. A Poisson random variable can represent many instances in our daily lives such as the number of phone calls coming into the Math Workshop requesting a tutor in a week, the number of misprints in a newspaper, or the number of cars arriving at a fast food drive-through in an hour.
+The Poisson distribution, named for French mathematician Siméon Denis Poisson, is a discrete probability distribution that expresses the number of occurrences of an event over a given period of time. A Poisson random variable can represent many instances in our daily lives such as the number of phone calls coming into the Math Workshop requesting a tutor in a week, the number of misprints in a newspaper, or the number of cars arriving at a fast food drive-through in an hour.
 
 The probability function of a Poisson random variable $X$ with parameter $\lambda$ is given by:
 $$\displaystyle p_X(x) = \frac{{e^{ - \lambda } \lambda ^x }}{{x!}} ; \ x = 0,1,2,... \textrm{ and  } \lambda > 0 $$
@@ -193,7 +193,8 @@ Since there are only a small number of matches with 4 goals or more, it'd be a g
 # select first 4 rows (0, 1, 2, 3 goals)
 NewGoalsTable <- GoalsTable[1:4,]
 # sum up the remaining rows
-NewGoalsTable[5,] <- sum(GoalsTable[5:nrow(GoalsTable),2]) 
+NewGoalsTable[5,] <- sum(GoalsTable[5:nrow(GoalsTable),2])
+NewGoalsTable <- mutate(NewGoalsTable, goals = as.character(goals))
 # put in 1 category called "4 or more"
 NewGoalsTable[5,"goals"] <- "4 or more" 
 ```
@@ -216,7 +217,7 @@ mykable(PoisProb)
 sum(PoisProb) #quick check to make sure the prob's add up to 1
 ```
 
-We then utilize the Poisson probabilities for each goal values to calculate the expected number of matches associated with those goal categories.
+We then utilize the Poisson probabilities for each goal value to calculate the expected number of matches associated with those goal categories.
 
 ```{r}
 NewGoalsTable <- cbind(NewGoalsTable, PoisProb) 
@@ -249,7 +250,7 @@ MUChisq <- chisq.test(NewGoalsTable$ActualMatches,
 MUChisq
 ```
 
-Since we get a very large p-value (0.984), we do not reject the null hypothesis of our Chi-square test. So we don't have evidence to claim that the data don't fit a Poisson distribution. We now use the idea of the power of a hypothesis test to make a final conclusion. The power of a test is the probability that it will correctly reject a false null hypothesis. It is highly influenced by the test's sample size, the larger the number of observations, the higher the statistical power of a test. Since we have a large sample size of 1038 Man Utd's games here, it is safe to say that our Chi-square goodness of fit test has high power. Hence we can conclude that there is no significant difference between the data's and expected distribution. Thus the distribution of Man Utd's goal scoring data are consistent with a Poisson distribution.
+Since we get a very large p-value (0.984), we do not reject the null hypothesis of our Chi-square test. So we don't have evidence to claim that the data don't fit a Poisson distribution. We now use the idea of the power of a hypothesis test to make a final conclusion. The power of a test is the probability that it will correctly reject a false null hypothesis. It is highly influenced by the test's sample size, the larger the number of observations, the higher the statistical power of a test. Since we have a large sample size of 1038 Man Utd's games here, it is safe to say that our Chi-square goodness of fit test has high power. Hence we can conclude that there is no significant difference between the data's and expected distribution. Thus the distribution of Man Utd's goal scoring data is consistent with a Poisson distribution.
 
 We can now put together everything we just did and create a function to check whether any Premier League team's goal scoring distribution can be modeled by a Poisson process.
 
@@ -277,6 +278,7 @@ PoissonFit <- function(Team){
   
   NewGoalsTable <- GoalsTable[1:4,]
   NewGoalsTable[5,] <- sum(GoalsTable[5:nrow(GoalsTable),2])
+  NewGoalsTable <- mutate(NewGoalsTable, goals = as.character(goals))
   NewGoalsTable[5,"goals"] <- "4 or more"
   
   PoisProb <- dpois(c(0:3), MeanGoals)
