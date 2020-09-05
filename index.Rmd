@@ -29,7 +29,7 @@ The most important aspect of the game of football is indisputably scoring goals.
 
 <center>
 
-![Data Science Diagram, Hadley Wickham, R for Data Science (https://r4ds.had.co.nz/)](data-science.png)
+![Data Science Diagram, Hadley Wickham, R for Data Science (https://r4ds.had.co.nz/)](fig/data-science.png)
 
 </center>
 
@@ -67,7 +67,7 @@ To load the match results data into R, it is a good idea for us to write an impo
 
 ```{r}
 epl.season <- function(year){
-  epl.path <- paste(year, ".csv", sep = "") # get file path
+  epl.path <- paste("data/", year, ".csv", sep = "") # get file path
   epl.Getdata <- read.csv(epl.path) # read in file
   epl.Getdata <- epl.Getdata %>% 
     mutate(Season = paste(year , "-", year + 1, sep = "")) %>% 
@@ -340,7 +340,7 @@ We're going to use this idea to model the time between each goal for a Premier L
 For this analysis, we use the ``muscoringtime.xlsx`` data file, as mentioned in the data importing section of this report. This data file contains 5 columns: Minutes, which is the point of time during a match at which a goal was scored; Matchweek, which is the fixture number of each game; the stoppage time in minutes for both halves of each game, and finally, the time between goals, which takes into account the stoppage time. We collected these 5 variables for all Man Utd's goals during their 2018-19 Premier League campaign. Here's a quick glance at our data table after we read in the data file.
 
 ```{r}
-muscoringtime <- read_excel("muscoringtime.xlsx")
+muscoringtime <- read_excel("data/muscoringtime.xlsx")
 ```
 
 ```{r}
@@ -386,7 +386,7 @@ The test statistic for a KS test is defined as
 $$D = \max_{x} |F_{n}(x) - F(x)|$$
 <center>
 
-![](KSExample.png)
+![](fig/KSExample.png)
 
 </center>
 
@@ -655,11 +655,11 @@ SimTable <- SimTable %>%
 ```
 
 ```{r, echo = FALSE, eval=FALSE}
-write_excel_csv(SimTable, "SimTable.csv")
+write_excel_csv(SimTable, "sim_results/SimTable.csv")
 ```
 
 ```{r, echo = FALSE, warning=FALSE, message=FALSE}
-SimTable <- read.csv("SimTable.csv")
+SimTable <- read.csv("sim_results/SimTable.csv")
 ```
 
 Here's a look at the current version of our ``SimTable``. The two columns ``HomeScore`` and ``AwayScore`` indicate our simulate match outcome for each matchup, as they are the number of goals scored for each club randomly generated using their scoring rates. To get these goal values, we use the ``rpois`` function in R, which takes in the scoring rate for each team and returns a random integer for number of goals scored. For example, in the third row of the table below, Arsenal, on their home pitch, defeats Burnley by 4 goals to 2. Arsenal, hence, earns a valuable 3 points for winning the match; Burnley, on the other hand, gets no points for their loss.
@@ -738,11 +738,11 @@ for (i in 2:nSim) {
 After the simulation is complete, we write the simulation table to a csv file and name it ``EPLSimFull.csv``. We can now import the data file and do some analysis.
 
 ```{r, eval=FALSE}
-write_excel_csv(EPLSim_All, "EPLSimFull.csv")
+write_excel_csv(EPLSim_All, "sim_results/EPLSimFull.csv")
 ```
 
 ```{r, warning=FALSE, message=FALSE}
-EPLSim_All <- read.csv("EPLSimFull.csv")
+EPLSim_All <- read.csv("sim_results/EPLSimFull.csv")
 EPLSim_All <- EPLSim_All %>% 
   mutate(SimType = "All Seasons")
 ```
@@ -865,7 +865,7 @@ after it is complete, the resulting table is written to a csv file.
 We now read in the data for further analysis and comparison.
 
 ```{r, message=FALSE}
-EPLSim_2010s <- read.csv("EPLSim2010s.csv")
+EPLSim_2010s <- read.csv("sim_results/EPLSim2010s.csv")
 EPLSim_2010s <- EPLSim_2010s %>% 
   mutate(SimType = "2010s")
 ```
@@ -937,7 +937,7 @@ eplWt <- epl9213 %>% # join the tables
 After that, we use the exact same simulation process as the previous 2 simulations to get the results for the 2018-19 seasons. As before, after the simulation is finished, we write the simulation table to a csv file. These tasks are done separately in an R script. We now import this data file for further usage in the next section.
 
 ```{r}
-EPLSim_Wt <- read.csv("EPLSimWt.csv")
+EPLSim_Wt <- read.csv("sim_results/EPLSimWt.csv")
 EPLSim_Wt <- EPLSim_Wt %>% 
   mutate(SimType = "Assign Weight")
 ```
@@ -1036,5 +1036,5 @@ I would like to express my special gratitude and thanks to my thesis advisor, Dr
 ```{r generateBibliography, results="asis", echo=FALSE}
 cleanbib()
 options("citation_format" = "pandoc")
-read.bibtex(file = "ThesisRef.bib")
+read.bibtex(file = "bib/ThesisRef.bib")
 ```
