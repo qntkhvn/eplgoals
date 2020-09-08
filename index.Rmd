@@ -652,14 +652,8 @@ SimTable <- SimTable %>%
                              ifelse(HomeScore == AwayScore, 1, 0)), 
          AwayPoints = ifelse(HomeScore > AwayScore, 0,
                              ifelse(HomeScore == AwayScore, 1, 3)))
-```
-
-```{r, echo = FALSE, eval=FALSE}
-write_excel_csv(SimTable, "sim_results/SimTable.csv")
-```
-
-```{r, echo = FALSE, warning=FALSE, message=FALSE}
-SimTable <- read.csv("sim_results/SimTable.csv")
+### from this point, since different sims give us different results,
+### your results and analyses might look different than mine
 ```
 
 Here's a look at the current version of our ``SimTable``. The two columns ``HomeScore`` and ``AwayScore`` indicate our simulate match outcome for each matchup, as they are the number of goals scored for each club randomly generated using their scoring rates. To get these goal values, we use the ``rpois`` function in R, which takes in the scoring rate for each team and returns a random integer for number of goals scored. For example, in the third row of the table below, Arsenal, on their home pitch, defeats Burnley by 4 goals to 2. Arsenal, hence, earns a valuable 3 points for winning the match; Burnley, on the other hand, gets no points for their loss.
