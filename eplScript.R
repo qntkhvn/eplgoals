@@ -1,4 +1,4 @@
-# packages
+# R packages
 library(tidyverse)
 library(kableExtra)
 library(mosaic)
