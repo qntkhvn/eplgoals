@@ -5,6 +5,7 @@ library(mosaic)
 library(readxl)
 library(surveillance)
 library(knitcitations)
+#library(engsoccerdata)
 
 # table formatting function
 mykable <- function(df){   
