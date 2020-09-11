@@ -1,5 +1,6 @@
 ### only seasons in the 2010s
 
+# get 2010s data
 epl.2010s <- epl.results %>% 
   filter(Season %in% c("2017-18", "2016-17", "2015-16", "2014-15", "2013-14", "2012-13", "2011-12", "2010-11"))
 
@@ -72,5 +73,5 @@ for (i in 2:nSim) {
     full_join(Sim(i))
 }
 
-write_excel_csv(EPLSim_2010s, "EPLSim2010s.csv")
-# EPLSim_2010s <- read_csv("C:/Users/nminh/Desktop/USB copy/EPLSim2010s.csv")
+# write_excel_csv(EPLSim_2010s, "data/EPLSim2010s.csv") # write sim results to a csv file
+# EPLSim_2010s <- read_csv("data/EPLSim2010s.csv")
