@@ -1,10 +1,10 @@
-## Simulate by putting more weights towards recent seasons
+## Simulate by putting more weight towards recent seasons
 ## Last 5 years: all that matters
 # last5 <- c("2013-14", "2014-15", "2015-16", "2016-17", "2017-18")
 
 ### weight scheme
 ### from 1992-93 to 2012-13: 1 
-### 13-14: 2; 14-15: 3; 15-16: 4; 16-17:8; 17-18:16
+### 13-14: 2; 14-15: 3; 15-16: 4; 16-17: 8; 17-18: 16
 
 epl9213 <- epl.fulldata[1:8226,] # data from 1992-93 to 2012-13
 
@@ -96,5 +96,5 @@ for (i in 2:nSim) {
     full_join(Sim(i))
 }
 
-write_excel_csv(EPLSim_Wt, "EPLSimWt.csv") # write sim results to a csv file
-#EPLSim_Wt <- read.csv("C:/Users/nminh/Desktop/USB copy/EPLSimWt.csv")
+# write_excel_csv(EPLSim_Wt, "sim_results/EPLSimWt.csv") # write sim results to a csv file
+# EPLSim_Wt <- read.csv("sim_results/EPLSimWt.csv")
