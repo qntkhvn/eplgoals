@@ -12,6 +12,7 @@ mykable <- function(df){
   kable_styling("striped", full_width = FALSE)
 }
 
+# data source: https://www.football-data.co.uk/englandm.php
 # function to import data
 epl.season <- function(year){
   epl.path <- paste("data/", year, ".csv", sep = "") # get file path
